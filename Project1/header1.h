@@ -1,5 +1,5 @@
 /*
-psdata.cpp
+header1.h
 Programmer: Albert Lee
 Date: March 12, 2019
 Description: This program prompts the user to enter passenger information
@@ -84,4 +84,4 @@ private:
 	//				  it doesn't return any values
 };
 
-#endif // _GLOBALS_H
+#endif 
